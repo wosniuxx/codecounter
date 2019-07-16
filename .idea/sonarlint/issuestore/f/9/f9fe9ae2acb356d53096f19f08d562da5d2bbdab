@@ -1,0 +1,16 @@
+
+Fsquid:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±æÅø¾-
+jsquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(å…ÒÍıÿÿÿÿ8±æÅø¾-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ß´—Àùÿÿÿÿ8±æÅø¾-
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¶ÿ…¦8±æÅø¾-
+Fsquid:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±æÅø¾-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(†ôşÿÿÿÿ8±æÅø¾-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(è¹±®8±æÅø¾-
+usquid:S3776N"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ı°®Ùûÿÿÿÿ8±æÅø¾-
+Msquid:S2093P"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8±æÅø¾-
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ğıÅŞ8±æÅø¾-
